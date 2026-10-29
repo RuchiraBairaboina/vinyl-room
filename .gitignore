@@ -1,0 +1,6 @@
+node_modules/
+client/dist/
+test-results/
+playwright-report/
+.vercel
+.DS_Store
